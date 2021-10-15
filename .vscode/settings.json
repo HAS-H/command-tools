@@ -1,0 +1,4 @@
+{
+    "java.project.sourcePaths": ["SRC"],
+    "java.project.outputPath": "BIN"
+}
